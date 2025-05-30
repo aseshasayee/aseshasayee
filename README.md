@@ -1,5 +1,5 @@
 ## Hi, Im Seshasayee 👋
-
+I'm currently pursuing Computer Science Engineering (CSE core) at SRM university. I graduated higher secondary school with ISC curriculum. I'm well-versed in Java and C language programming. i have indulged into experimenting with multiple different software applications such as Canva, Wix, slides, AI tools, etc. to grow my technical familiarity with various applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aseshasayee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aseshasayee1@gmail.com) 
